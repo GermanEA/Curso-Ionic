@@ -12,4 +12,6 @@ export class ActionSheetPage implements OnInit {
   ngOnInit() {
   }
 
+  onClick(){}
+
 }
